@@ -1,0 +1,42 @@
+h1 {
+    padding-left: 100px;
+}
+
+.preview {
+    text-align: center;
+}
+
+p {
+    padding-left: 100px;
+}
+
+.button {
+    padding-top: 10px;
+}
+
+.btn1 {
+    text-align: right;
+}
+
+.btn2 {
+    text-align: left; 
+}
+
+#seinenngappi , #saisyuugakureki {
+    position: relative;
+    height: 10px;
+    left: 100px;
+}
+
+.gakkou {
+    padding-left: 100px;
+}
+
+.koukou {
+    padding-top: 10px;
+}
+
+.senmon {
+    padding-top: 10px;
+}
+
